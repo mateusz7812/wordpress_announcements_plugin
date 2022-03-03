@@ -1,0 +1,6 @@
+.announcement_wrapper{
+    border-bottom: 1px solid #ccc;
+    width: min-content;
+    padding: 10px;
+    font-family: var(--wp--preset--font-family--source-serif-pro);
+}
